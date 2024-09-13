@@ -1,4 +1,4 @@
-![logo](https://github.com/ashwanil23/ashwanil23/blob/main/FOLLOW%202.jpg)
+![logo](![Welcome](https://github.com/user-attachments/assets/25e6a29a-f0c4-4410-808a-b596d4f19b3e))
 <h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
 <h3 align="center">Android Developer | Student</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
