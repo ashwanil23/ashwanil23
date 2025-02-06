@@ -1,41 +1,59 @@
-![RoamIndia Logo](https://github.com/user-attachments/assets/e60a8b46-205e-411b-879b-0e0cfba1f3dc)
-
-# Hi, I'm Ashwani Kumar! 👋
-
-## Android Developer | IT Student | Open Source Enthusiast
-
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding" width="400" />
+<div align="center">
+  
+# Ashwani Kumar
+### Android Developer & Computer Science Student
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ashwanil23&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ashwanil23)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashwani_l23?logo=twitter&style=for-the-badge)](https://twitter.com/ashwani_l23)
 
-🔭 **Currently Working On:** Enhancing my Android development skills and contributing to open-source projects.
+</div>
 
-📫 **Reach Me At:** [mailid.ashwanikumar@gmail.com](mailto:mailid.ashwanikumar@gmail.com)
+## About Me
+I'm passionate about Android development and continuously expanding my skills in software engineering. Currently focused on personal growth and development projects that challenge my abilities and help me learn new technologies.
 
-⚡ **Fun Fact:** "Learning 📑 is Earning 💹"
+## Skills & Technologies
+- **Mobile Development:** Android (Java/Kotlin)
+- **Programming Languages:** C, C++, Java, Kotlin
+- **Database:** MySQL
+- **Tools & Platforms:** Git, Android Studio
+- **Currently Learning:** Advanced Android Development Patterns
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwanl23)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwani_l23)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashwani.l23)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ashwanil23)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ak76783qqs)
+## Connect With Me
 
-## 🛠 Tech Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="left">
 
-## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanil23&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwanl23)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwani_l23)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashwani.l23)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailid.ashwanikumar@gmail.com)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwanil23&theme=tokyonight)
+</div>
+
+## Coding Profiles
+
+<div align="left">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ashwanil23)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ak76783qqs)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashwanil2307)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@ak76782628)
+
+</div>
+
+## GitHub Statistics
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ashwanil23&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/ashwanil23)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwanil23&theme=dark)](https://github.com/ashwanil23)
+
+</div>
 
 ---
-_"Passionate about building amazing Android apps and learning new technologies!"_ 🚀
 
+<div align="center">
+
+📫 **Contact:** [mailid.ashwanikumar@gmail.com](mailto:mailid.ashwanikumar@gmail.com)
+
+</div>
