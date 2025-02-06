@@ -28,6 +28,18 @@ val ashwani = developer {
 }
 ```
 
+## 🌐 Portfolio & Projects
+<div align="center">
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-catch.me-blue?style=for-the-badge&logo=github&logoColor=white)](https://ashwanil23.github.io/catch.me/)
+[![Deployed Site](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://catch-me-eta.vercel.app)
+
+<a href="https://catch-me-eta.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanil23&repo=catch.me&theme=tokyonight&hide_border=true" alt="Portfolio Project"/>
+</a>
+
+</div>
+
 ## 🛠️ Tech Stack
 <div align="center">
 
@@ -55,23 +67,29 @@ val ashwani = developer {
 
 </div>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
+
 <a href="https://github.com/ashwanil23">
   <img src="https://github-profile-trophy.vercel.app/?username=ashwanil23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="800" alt="Trophy Stats"/>
 </a>
+
 <img src="https://github-stats-alpha.vercel.app/api?username=ashwanil23&cc=0d1117&tc=fff&ic=fff&bc=0d1117" width="400" alt="GitHub Stats">
+
 <a href="https://github.com/ashwanil23">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwanil23&theme=tokyonight" width="800" alt="GitHub Profile Summary"/>
 </a>
+
 <div style="display: flex; justify-content: space-between; width: 800px; margin: 20px 0;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwanil23&theme=tokyonight" width="390" alt="Repos per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwanil23&theme=tokyonight" width="390" alt="Most Commit Language"/>
 </div>
+
 <div style="display: flex; justify-content: space-between; width: 800px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwanil23&theme=tokyonight" width="390" alt="Stats"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashwanil23&theme=tokyonight&utcOffset=8" width="390" alt="Productive Time"/>
 </div>
+
 </div>
 
 ## 🎯 Current Focus
